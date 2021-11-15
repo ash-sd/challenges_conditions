@@ -27,7 +27,7 @@ int main()
 
     }
     else
-
+	printf("there is no solution");
 
     return 0;
 }
